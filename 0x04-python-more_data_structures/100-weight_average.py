@@ -6,5 +6,5 @@ def weight_average(my_list=[]):
     wmul = 0
     for t in my_list:
         w += t[1]
-        we += t[0] * t[1]
+        wmul += t[0] * t[1]
     return wmul / w
