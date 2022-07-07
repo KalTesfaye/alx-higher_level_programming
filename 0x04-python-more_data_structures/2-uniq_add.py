@@ -8,4 +8,3 @@ def uniq_add(my_list=[]):
         result += num
 
     return result
-
