@@ -42,4 +42,3 @@ def roman_to_int(roman_string):
             roman_string = roman_string.replace(key, '')
 
     return result
-
